@@ -1,7 +1,12 @@
+#Channel 4
 c4ads.2cnt.net
 cdn.http.anno.channel4.com
 cdn.ss.anno.channel4.com
 monitor.channel4.com
 webstats.channel4.com
 ic.channel4.com
+
+# ITV
 toots-a.akamaihd.net
+app.launchdarkly.com
+clientstream.launchdarkly.com
