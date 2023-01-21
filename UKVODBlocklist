@@ -6,7 +6,7 @@ monitor.channel4.com
 webstats.channel4.com
 ic.channel4.com
 
-# ITV
-toots-a.akamaihd.net
-app.launchdarkly.com
-clientstream.launchdarkly.com
+# ITV - seem to have issues with this
+#toots-a.akamaihd.net
+#app.launchdarkly.com
+#clientstream.launchdarkly.com
